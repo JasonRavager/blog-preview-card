@@ -28,6 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
+[Imgur](https://imgur.com/VSBdaEE)
 ![Screenshot](https://imgur.com/VSBdaEE)
 
 ### Links
