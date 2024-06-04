@@ -595,17 +595,18 @@ video {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
 }
+.text-12-14px{
+  font-size: clamp(0.75rem, 0.706rem + 0.1878vw, 0.875rem);
+}
+.text-14-16px{
+  font-size: clamp(0.875rem, 0.831rem + 0.1878vw, 1rem);
+}
+.text-20-24px{
+  font-size: clamp(1.25rem, 1.162rem + 0.3756vw, 1.5rem);
+}
 .text-sm{
   font-size: 0.875rem;
   line-height: 1.25rem;
-}
-.text-xl{
-  font-size: 1.25rem;
-  line-height: 1.75rem;
-}
-.text-xs{
-  font-size: 0.75rem;
-  line-height: 1rem;
 }
 .font-bold{
   font-weight: 700;
@@ -651,20 +652,5 @@ video {
 
   .xl\:w-\[384px\]{
     width: 384px;
-  }
-
-  .xl\:text-2xl{
-    font-size: 1.5rem;
-    line-height: 2rem;
-  }
-
-  .xl\:text-base{
-    font-size: 1rem;
-    line-height: 1.5rem;
-  }
-
-  .xl\:text-sm{
-    font-size: 0.875rem;
-    line-height: 1.25rem;
   }
 }

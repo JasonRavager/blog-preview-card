@@ -18,6 +18,11 @@ module.exports = {
       screens: {
         'xl': '1440px',
       },
+      fontSize: {
+        '12-14px': "clamp(0.75rem, 0.706rem + 0.1878vw, 0.875rem)",
+        '14-16px': "clamp(0.875rem, 0.831rem + 0.1878vw, 1rem)",
+        '20-24px': "clamp(1.25rem, 1.162rem + 0.3756vw, 1.5rem)",
+      },
     },
   },
   plugins: [],
