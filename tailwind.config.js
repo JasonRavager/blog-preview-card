@@ -12,7 +12,14 @@ module.exports = {
         'figtree': ['Figtree', 'sans-serif'],
       },
       boxShadow: {
-        'hard': "8px 8px black",
+        'hard-mobile': "8px 8px black",
+        'hard-desktop': "16px 16px black",
+      },
+      backgroundImage: {
+        'illustration': "url('/assets/images/illustration-article.svg')",
+      },
+      screens: {
+        'xl': '1440px',
       },
     },
   },
