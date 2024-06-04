@@ -16,7 +16,7 @@ module.exports = {
         'hard-desktop': "16px 16px black",
       },
       backgroundImage: {
-        'illustration': "url('/assets/images/illustration-article.svg')",
+        'illustration': "url('./assets/images/illustration-article.svg')",
       },
       screens: {
         'xl': '1440px',
