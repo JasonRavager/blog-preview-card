@@ -28,9 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-```html
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/VSBdaEE" data-context="false" ><a href="//imgur.com/a/VSBdaEE"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-```
+![Screenshot](https://imgur.com/VSBdaEE)
 
 ### Links
 
