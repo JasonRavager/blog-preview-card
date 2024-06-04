@@ -581,9 +581,6 @@ video {
   --tw-bg-opacity: 1;
   background-color: rgb(244 208 78 / var(--tw-bg-opacity));
 }
-.bg-illustration{
-  background-image: url('/dist/images/illustration-article.png');
-}
 .bg-center{
   background-position: center;
 }
