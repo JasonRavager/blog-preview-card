@@ -1,4 +1,4 @@
-@import url('/dist/css/fontstyle.css');
+@import url('./dist/css/fontstyle.css');
 
 @tailwind base;
 @tailwind components;
