@@ -582,7 +582,7 @@ video {
   background-color: rgb(244 208 78 / var(--tw-bg-opacity));
 }
 .bg-illustration{
-  background-image: url('./public/images/illustration-article.svg');
+  background-image: url('./dist/images/illustration-article.svg');
 }
 .bg-center{
   background-position: center;
